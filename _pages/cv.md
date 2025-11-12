@@ -11,30 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Machine Learning, Bielefeld University, 2025 (expected)
-* M.Sc. in Intelligent Systems, Bielefeld University, 2021
-* B.Sc. in Electrical & Electronics Engineering, Istanbul Bilgi University, 2018
-  * B.Sc. in Electrical Engineering and Communications Technology, Frankfurt University of Applied Sciences, 2017 (ERASMUS)
+* M.Eng. in Automotive Engineering, Monterrey Institure of Technology, 2015
+* B.Sc. in Computer Science & Electronics Engineering, Monterrey Institure of Technology, 2013
+  * B.Sc. Microelectronics and Digital Design, Tampere University of Technology, 2012 (Exchange Studies) 
 
 Work experience
 ======
-* **Co-founder & CRO**, Jan, 2020 -- Aug, 2023 \
-[VisionAI GmbH](https://www.visionai.co/)
+* **Senior Embedded Engineer**, April, 2022 -- Present \
+[Latent AI](https://latentai.com)
 
-- **Research Assistant**, 2019 \
-Bielefeld University
+* **EMR Engineer by Lonza**, April, 2021 -- March, 2022 \
+[Lonza GmbH](https://www.lonza.com/specialized-modalities/mrna-services)
+[Demostene + Partner AG](https://dempag.ch/engineering/)
 
-* **Internship**, 2018 \
-[Migros T.A.Ş](https://www.migroskurumsal.com/en/)
+* **Autonomous Driving - Embedded Software Developer**, June, 2018 -- March, 2021 \
+[BMW](https://www.press.bmwgroup.com/global/article/detail/T0280021EN/new-centre-of-excellence-for-autonomous-driving-bmw-officially-opens-its-autonomous-driving-campus-in-unterschleissheim-near-munich?language=en)
+[TTTech Automotive GmbH - Thunder Project](https://www.tttech.com/press/bmw-starts-cooperation-with-tttech-auto-for-developing-automated-driving-functions-at-the-highest-safety-level)
 
-- **Internship**, 2016 \
-[Sunny Electronics](https://www.sunny.com.tr/)
+* **IntraECU communication - Embedded Software Developer**, August, 2017 -- May, 2018 \
+[Software Defined Vehicles - TTTech](https://www.tttech-auto.com)
+[Delphi Audi zFAS Controller](https://electronics360.globalspec.com/article/14386/teardown-delphi-audi-zfas-controller)
 
-* **Student Assistant**, 2015-2018 \
-Istanbul Bilgi University
+* **Embedded Software Validation Engineer**, January, 2016 -- July, 2017 \
+[Eaton](https://www.eaton.com/us/en-us/company/research-and-development.html)
+
+* **Research Assistant**, January 2014, December 2015 \
+Monterrey Institute of Technology - Toluca
+
+* **Internship**, 2013 \
+[Daimler Trucks North America](https://www.daimlertruck.com/en/newsroom/pressrelease/new-paint-finish-at-mercedes-benz-plant-in-woerth-improves-co2-balance-of-production-52967827)
+
+- **Invited Research**, 2016 \
+[PERCRO - Perceptual R0botics Laboratory](https://www.cnet.com/science/transformer-like-suit-lets-you-lift-110-pounds-with-each-hand/)
 
 
-Publications
+Research
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -54,7 +65,4 @@ Teaching
 
 Awards & Honors
 ======
-* 3rd prize in Hateful Memes Challenge by Facebook AI, 2020
-* "The Best Tutor Award" by Bielefeld University, 2020
-*	Master’s Scholarship in Germany by TEV-DAAD, 2018
-* Istanbul Bilgi University High Honors Certificate (Bachelor’s), 2018
+* Summa Cum Laude
