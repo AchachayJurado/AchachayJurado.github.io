@@ -10,6 +10,8 @@ You can also find my articles on <a href="{{site.author.googlescholar}}">my Goog
 
 {% include base_path %}
 
+{% comment %}
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+{% endcomment %}

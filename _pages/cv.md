@@ -46,11 +46,11 @@ Monterrey Institute of Technology - Toluca
 [PERCRO - Perceptual R0botics Laboratory](https://www.cnet.com/science/transformer-like-suit-lets-you-lift-110-pounds-with-each-hand/)
 
 
-Research
+<!-- Research
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
 
 <!-- Teaching
 ======
